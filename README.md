@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/AkashYadav-0017/DSA/tree/master/0189-rotate-array) |
 | [0485-max-consecutive-ones](https://github.com/AkashYadav-0017/DSA/tree/master/0485-max-consecutive-ones) |
 | [0792-binary-search](https://github.com/AkashYadav-0017/DSA/tree/master/0792-binary-search) |
+| [2271-rearrange-array-elements-by-sign](https://github.com/AkashYadav-0017/DSA/tree/master/2271-rearrange-array-elements-by-sign) |
 ## Matrix
 |  |
 | ------- |
@@ -23,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/AkashYadav-0017/DSA/tree/master/0054-spiral-matrix) |
+| [2271-rearrange-array-elements-by-sign](https://github.com/AkashYadav-0017/DSA/tree/master/2271-rearrange-array-elements-by-sign) |
 ## Binary Search
 |  |
 | ------- |
@@ -38,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/AkashYadav-0017/DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0189-rotate-array](https://github.com/AkashYadav-0017/DSA/tree/master/0189-rotate-array) |
+| [2271-rearrange-array-elements-by-sign](https://github.com/AkashYadav-0017/DSA/tree/master/2271-rearrange-array-elements-by-sign) |
 ## Hash Table
 |  |
 | ------- |
