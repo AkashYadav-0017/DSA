@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/AkashYadav-0017/DSA/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/AkashYadav-0017/DSA/tree/master/0189-rotate-array) |
 | [0485-max-consecutive-ones](https://github.com/AkashYadav-0017/DSA/tree/master/0485-max-consecutive-ones) |
+| [0540-single-element-in-a-sorted-array](https://github.com/AkashYadav-0017/DSA/tree/master/0540-single-element-in-a-sorted-array) |
 | [0792-binary-search](https://github.com/AkashYadav-0017/DSA/tree/master/0792-binary-search) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/AkashYadav-0017/DSA/tree/master/2271-rearrange-array-elements-by-sign) |
 ## Matrix
@@ -29,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/AkashYadav-0017/DSA/tree/master/0074-search-a-2d-matrix) |
+| [0540-single-element-in-a-sorted-array](https://github.com/AkashYadav-0017/DSA/tree/master/0540-single-element-in-a-sorted-array) |
 | [0792-binary-search](https://github.com/AkashYadav-0017/DSA/tree/master/0792-binary-search) |
 ## Math
 |  |
