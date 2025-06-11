@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/AkashYadav-0017/DSA/tree/master/0169-majority-element) |
+| [0409-longest-palindrome](https://github.com/AkashYadav-0017/DSA/tree/master/0409-longest-palindrome) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -64,4 +65,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/AkashYadav-0017/DSA/tree/master/0053-maximum-subarray) |
+## String
+|  |
+| ------- |
+| [0409-longest-palindrome](https://github.com/AkashYadav-0017/DSA/tree/master/0409-longest-palindrome) |
+## Greedy
+|  |
+| ------- |
+| [0409-longest-palindrome](https://github.com/AkashYadav-0017/DSA/tree/master/0409-longest-palindrome) |
 <!---LeetCode Topics End-->
