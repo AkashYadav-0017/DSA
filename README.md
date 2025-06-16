@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/AkashYadav-0017/DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0151-reverse-words-in-a-string](https://github.com/AkashYadav-0017/DSA/tree/master/0151-reverse-words-in-a-string) |
 | [0189-rotate-array](https://github.com/AkashYadav-0017/DSA/tree/master/0189-rotate-array) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/AkashYadav-0017/DSA/tree/master/2271-rearrange-array-elements-by-sign) |
 ## Hash Table
@@ -70,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0151-reverse-words-in-a-string](https://github.com/AkashYadav-0017/DSA/tree/master/0151-reverse-words-in-a-string) |
 | [0409-longest-palindrome](https://github.com/AkashYadav-0017/DSA/tree/master/0409-longest-palindrome) |
 | [1970-sorting-the-sentence](https://github.com/AkashYadav-0017/DSA/tree/master/1970-sorting-the-sentence) |
 | [2887-sort-vowels-in-a-string](https://github.com/AkashYadav-0017/DSA/tree/master/2887-sort-vowels-in-a-string) |
