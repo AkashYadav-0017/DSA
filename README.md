@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/AkashYadav-0017/DSA/tree/master/0054-spiral-matrix) |
+| [0415-add-strings](https://github.com/AkashYadav-0017/DSA/tree/master/0415-add-strings) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/AkashYadav-0017/DSA/tree/master/2271-rearrange-array-elements-by-sign) |
 ## Binary Search
 |  |
@@ -37,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0048-rotate-image](https://github.com/AkashYadav-0017/DSA/tree/master/0048-rotate-image) |
 | [0189-rotate-array](https://github.com/AkashYadav-0017/DSA/tree/master/0189-rotate-array) |
+| [0415-add-strings](https://github.com/AkashYadav-0017/DSA/tree/master/0415-add-strings) |
 ## Two Pointers
 |  |
 | ------- |
@@ -73,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0151-reverse-words-in-a-string](https://github.com/AkashYadav-0017/DSA/tree/master/0151-reverse-words-in-a-string) |
 | [0409-longest-palindrome](https://github.com/AkashYadav-0017/DSA/tree/master/0409-longest-palindrome) |
+| [0415-add-strings](https://github.com/AkashYadav-0017/DSA/tree/master/0415-add-strings) |
 | [1970-sorting-the-sentence](https://github.com/AkashYadav-0017/DSA/tree/master/1970-sorting-the-sentence) |
 | [2887-sort-vowels-in-a-string](https://github.com/AkashYadav-0017/DSA/tree/master/2887-sort-vowels-in-a-string) |
 ## Greedy
