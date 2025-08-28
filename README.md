@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/AkashYadav-0017/DSA/tree/master/0048-rotate-image) |
 | [0189-rotate-array](https://github.com/AkashYadav-0017/DSA/tree/master/0189-rotate-array) |
 | [0415-add-strings](https://github.com/AkashYadav-0017/DSA/tree/master/0415-add-strings) |
+| [1013-fibonacci-number](https://github.com/AkashYadav-0017/DSA/tree/master/1013-fibonacci-number) |
 ## Two Pointers
 |  |
 | ------- |
@@ -70,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/AkashYadav-0017/DSA/tree/master/0053-maximum-subarray) |
+| [1013-fibonacci-number](https://github.com/AkashYadav-0017/DSA/tree/master/1013-fibonacci-number) |
 ## String
 |  |
 | ------- |
@@ -82,4 +84,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0409-longest-palindrome](https://github.com/AkashYadav-0017/DSA/tree/master/0409-longest-palindrome) |
+## Recursion
+|  |
+| ------- |
+| [1013-fibonacci-number](https://github.com/AkashYadav-0017/DSA/tree/master/1013-fibonacci-number) |
+## Memoization
+|  |
+| ------- |
+| [1013-fibonacci-number](https://github.com/AkashYadav-0017/DSA/tree/master/1013-fibonacci-number) |
 <!---LeetCode Topics End-->
