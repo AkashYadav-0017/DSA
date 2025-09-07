@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/AkashYadav-0017/DSA/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/AkashYadav-0017/DSA/tree/master/0054-spiral-matrix) |
 | [0074-search-a-2d-matrix](https://github.com/AkashYadav-0017/DSA/tree/master/0074-search-a-2d-matrix) |
+| [0078-subsets](https://github.com/AkashYadav-0017/DSA/tree/master/0078-subsets) |
 | [0169-majority-element](https://github.com/AkashYadav-0017/DSA/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/AkashYadav-0017/DSA/tree/master/0189-rotate-array) |
 | [0215-kth-largest-element-in-an-array](https://github.com/AkashYadav-0017/DSA/tree/master/0215-kth-largest-element-in-an-array) |
@@ -108,4 +109,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1509-replace-employee-id-with-the-unique-identifier](https://github.com/AkashYadav-0017/DSA/tree/master/1509-replace-employee-id-with-the-unique-identifier) |
 | [1908-recyclable-and-low-fat-products](https://github.com/AkashYadav-0017/DSA/tree/master/1908-recyclable-and-low-fat-products) |
+## Backtracking
+|  |
+| ------- |
+| [0078-subsets](https://github.com/AkashYadav-0017/DSA/tree/master/0078-subsets) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0078-subsets](https://github.com/AkashYadav-0017/DSA/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->
