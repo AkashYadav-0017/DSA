@@ -74,11 +74,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/AkashYadav-0017/DSA/tree/master/0022-generate-parentheses) |
 | [0053-maximum-subarray](https://github.com/AkashYadav-0017/DSA/tree/master/0053-maximum-subarray) |
 | [1013-fibonacci-number](https://github.com/AkashYadav-0017/DSA/tree/master/1013-fibonacci-number) |
 ## String
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/AkashYadav-0017/DSA/tree/master/0022-generate-parentheses) |
 | [0151-reverse-words-in-a-string](https://github.com/AkashYadav-0017/DSA/tree/master/0151-reverse-words-in-a-string) |
 | [0409-longest-palindrome](https://github.com/AkashYadav-0017/DSA/tree/master/0409-longest-palindrome) |
 | [0415-add-strings](https://github.com/AkashYadav-0017/DSA/tree/master/0415-add-strings) |
@@ -112,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/AkashYadav-0017/DSA/tree/master/0022-generate-parentheses) |
 | [0078-subsets](https://github.com/AkashYadav-0017/DSA/tree/master/0078-subsets) |
 ## Bit Manipulation
 |  |
