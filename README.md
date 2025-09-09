@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/AkashYadav-0017/DSA/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/AkashYadav-0017/DSA/tree/master/0189-rotate-array) |
 | [0215-kth-largest-element-in-an-array](https://github.com/AkashYadav-0017/DSA/tree/master/0215-kth-largest-element-in-an-array) |
+| [0268-missing-number](https://github.com/AkashYadav-0017/DSA/tree/master/0268-missing-number) |
 | [0485-max-consecutive-ones](https://github.com/AkashYadav-0017/DSA/tree/master/0485-max-consecutive-ones) |
 | [0540-single-element-in-a-sorted-array](https://github.com/AkashYadav-0017/DSA/tree/master/0540-single-element-in-a-sorted-array) |
 | [0792-binary-search](https://github.com/AkashYadav-0017/DSA/tree/master/0792-binary-search) |
@@ -33,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/AkashYadav-0017/DSA/tree/master/0074-search-a-2d-matrix) |
+| [0268-missing-number](https://github.com/AkashYadav-0017/DSA/tree/master/0268-missing-number) |
 | [0540-single-element-in-a-sorted-array](https://github.com/AkashYadav-0017/DSA/tree/master/0540-single-element-in-a-sorted-array) |
 | [0792-binary-search](https://github.com/AkashYadav-0017/DSA/tree/master/0792-binary-search) |
 ## Math
@@ -40,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0048-rotate-image](https://github.com/AkashYadav-0017/DSA/tree/master/0048-rotate-image) |
 | [0189-rotate-array](https://github.com/AkashYadav-0017/DSA/tree/master/0189-rotate-array) |
+| [0268-missing-number](https://github.com/AkashYadav-0017/DSA/tree/master/0268-missing-number) |
 | [0415-add-strings](https://github.com/AkashYadav-0017/DSA/tree/master/0415-add-strings) |
 | [1013-fibonacci-number](https://github.com/AkashYadav-0017/DSA/tree/master/1013-fibonacci-number) |
 ## Two Pointers
@@ -53,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/AkashYadav-0017/DSA/tree/master/0169-majority-element) |
+| [0268-missing-number](https://github.com/AkashYadav-0017/DSA/tree/master/0268-missing-number) |
 | [0409-longest-palindrome](https://github.com/AkashYadav-0017/DSA/tree/master/0409-longest-palindrome) |
 ## Divide and Conquer
 |  |
@@ -65,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0169-majority-element](https://github.com/AkashYadav-0017/DSA/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/AkashYadav-0017/DSA/tree/master/0215-kth-largest-element-in-an-array) |
+| [0268-missing-number](https://github.com/AkashYadav-0017/DSA/tree/master/0268-missing-number) |
 | [1970-sorting-the-sentence](https://github.com/AkashYadav-0017/DSA/tree/master/1970-sorting-the-sentence) |
 | [2887-sort-vowels-in-a-string](https://github.com/AkashYadav-0017/DSA/tree/master/2887-sort-vowels-in-a-string) |
 ## Counting
@@ -120,4 +125,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0078-subsets](https://github.com/AkashYadav-0017/DSA/tree/master/0078-subsets) |
+| [0268-missing-number](https://github.com/AkashYadav-0017/DSA/tree/master/0268-missing-number) |
 <!---LeetCode Topics End-->
