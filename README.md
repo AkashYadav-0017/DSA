@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0054-spiral-matrix](https://github.com/AkashYadav-0017/DSA/tree/master/0054-spiral-matrix) |
 | [0415-add-strings](https://github.com/AkashYadav-0017/DSA/tree/master/0415-add-strings) |
+| [1642-water-bottles](https://github.com/AkashYadav-0017/DSA/tree/master/1642-water-bottles) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/AkashYadav-0017/DSA/tree/master/2271-rearrange-array-elements-by-sign) |
 ## Binary Search
 |  |
@@ -45,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/AkashYadav-0017/DSA/tree/master/0268-missing-number) |
 | [0415-add-strings](https://github.com/AkashYadav-0017/DSA/tree/master/0415-add-strings) |
 | [1013-fibonacci-number](https://github.com/AkashYadav-0017/DSA/tree/master/1013-fibonacci-number) |
+| [1642-water-bottles](https://github.com/AkashYadav-0017/DSA/tree/master/1642-water-bottles) |
 ## Two Pointers
 |  |
 | ------- |
