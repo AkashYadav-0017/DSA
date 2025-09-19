@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/AkashYadav-0017/DSA/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/AkashYadav-0017/DSA/tree/master/0189-rotate-array) |
 | [0215-kth-largest-element-in-an-array](https://github.com/AkashYadav-0017/DSA/tree/master/0215-kth-largest-element-in-an-array) |
+| [0238-product-of-array-except-self](https://github.com/AkashYadav-0017/DSA/tree/master/0238-product-of-array-except-self) |
 | [0268-missing-number](https://github.com/AkashYadav-0017/DSA/tree/master/0268-missing-number) |
 | [0485-max-consecutive-ones](https://github.com/AkashYadav-0017/DSA/tree/master/0485-max-consecutive-ones) |
 | [0540-single-element-in-a-sorted-array](https://github.com/AkashYadav-0017/DSA/tree/master/0540-single-element-in-a-sorted-array) |
@@ -128,4 +129,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0078-subsets](https://github.com/AkashYadav-0017/DSA/tree/master/0078-subsets) |
 | [0268-missing-number](https://github.com/AkashYadav-0017/DSA/tree/master/0268-missing-number) |
+## Prefix Sum
+|  |
+| ------- |
+| [0238-product-of-array-except-self](https://github.com/AkashYadav-0017/DSA/tree/master/0238-product-of-array-except-self) |
 <!---LeetCode Topics End-->
