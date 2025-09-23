@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/AkashYadav-0017/DSA/tree/master/0054-spiral-matrix) |
 | [0074-search-a-2d-matrix](https://github.com/AkashYadav-0017/DSA/tree/master/0074-search-a-2d-matrix) |
 | [0078-subsets](https://github.com/AkashYadav-0017/DSA/tree/master/0078-subsets) |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/AkashYadav-0017/DSA/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0169-majority-element](https://github.com/AkashYadav-0017/DSA/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/AkashYadav-0017/DSA/tree/master/0189-rotate-array) |
 | [0215-kth-largest-element-in-an-array](https://github.com/AkashYadav-0017/DSA/tree/master/0215-kth-largest-element-in-an-array) |
@@ -36,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/AkashYadav-0017/DSA/tree/master/0074-search-a-2d-matrix) |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/AkashYadav-0017/DSA/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0268-missing-number](https://github.com/AkashYadav-0017/DSA/tree/master/0268-missing-number) |
 | [0540-single-element-in-a-sorted-array](https://github.com/AkashYadav-0017/DSA/tree/master/0540-single-element-in-a-sorted-array) |
 | [0792-binary-search](https://github.com/AkashYadav-0017/DSA/tree/master/0792-binary-search) |
