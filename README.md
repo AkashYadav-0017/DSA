@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/AkashYadav-0017/DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0061-rotate-list](https://github.com/AkashYadav-0017/DSA/tree/master/0061-rotate-list) |
 | [0151-reverse-words-in-a-string](https://github.com/AkashYadav-0017/DSA/tree/master/0151-reverse-words-in-a-string) |
 | [0189-rotate-array](https://github.com/AkashYadav-0017/DSA/tree/master/0189-rotate-array) |
 | [0917-boats-to-save-people](https://github.com/AkashYadav-0017/DSA/tree/master/0917-boats-to-save-people) |
@@ -139,4 +140,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/AkashYadav-0017/DSA/tree/master/0238-product-of-array-except-self) |
+## Linked List
+|  |
+| ------- |
+| [0061-rotate-list](https://github.com/AkashYadav-0017/DSA/tree/master/0061-rotate-list) |
 <!---LeetCode Topics End-->
