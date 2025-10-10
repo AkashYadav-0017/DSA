@@ -151,4 +151,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/AkashYadav-0017/DSA/tree/master/0021-merge-two-sorted-lists) |
 | [0061-rotate-list](https://github.com/AkashYadav-0017/DSA/tree/master/0061-rotate-list) |
+## Stack
+|  |
+| ------- |
+| [0225-implement-stack-using-queues](https://github.com/AkashYadav-0017/DSA/tree/master/0225-implement-stack-using-queues) |
+## Design
+|  |
+| ------- |
+| [0225-implement-stack-using-queues](https://github.com/AkashYadav-0017/DSA/tree/master/0225-implement-stack-using-queues) |
+## Queue
+|  |
+| ------- |
+| [0225-implement-stack-using-queues](https://github.com/AkashYadav-0017/DSA/tree/master/0225-implement-stack-using-queues) |
 <!---LeetCode Topics End-->
